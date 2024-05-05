@@ -23,4 +23,4 @@ func main() {
 	}()
 }
 
-//export GOPHERJS_GOROOT="$(go1.12.16 env GOROOT)"
+//export GOPHERJS_GOROOT="$(go1.19.13 env GOROOT)"
